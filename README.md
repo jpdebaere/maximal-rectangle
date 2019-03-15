@@ -7,7 +7,7 @@
 It is a Delphi implementation of the *maximal empty rectangle problem*[<sup>3</sup>](https://en.wikipedia.org/wiki/Largest_empty_rectangle). Interest was sparked by an article by David Vandevoorde,__The Maximal Rectangle Problem__[<sup>1</sup>](http://www.drdobbs.com/database/the-maximal-rectangle-problem/184410529).
 The idea of the algorithm for solving the problem is based on a paper by Thomas M. Breuel, __Two Geometric Algorithms for Layout Analysis__[<sup>2</sup>](./research/2002-breuel-das.pdf).
 
-__Note:__ The accompanied example app will avoid enumerating `Windows Store` based apps because of the lack of `cloaked` window detection. That requires further usage of `DwmAPI`, and more code to be written. That is outside the scope and intentions of the example code provided.
+__Note:__ The accompanied example app will avoid enumerating `Windows Store` based apps because of the lack of `cloaked` window detection. That requires further usage of `DwmAPI`, and more code to be written, thus is outside the scope and intentions of the example code provided.
 
 ## API
 
